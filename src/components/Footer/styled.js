@@ -8,6 +8,7 @@ export const Container = styled.div`
         flex-direction: column;
         background-color: #EEBC3B;
         padding: 10px 45px 5px 45px;
+        
     }
 `
 

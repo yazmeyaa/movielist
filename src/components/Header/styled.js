@@ -12,6 +12,8 @@ export const Container = styled.div`
 
 export const Title = styled.p`
     &{
+        user-select: none;
+        letter-spacing: 0.15rem;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         font-weight: bold;
         text-transform: uppercase;

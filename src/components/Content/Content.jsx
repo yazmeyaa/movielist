@@ -1,11 +1,11 @@
 import React from 'react'
-import {Container, Test} from './styled'
+import {Container, Title} from './styled'
 
 
 const Content = () => {
     return(
         <Container>
-            
+            <Title>Смотри. Добавляй. Поделись</Title>
         </Container>
     )
 }
