@@ -8,7 +8,7 @@ export const Container = styled.div`
         max-width: 80%;
         padding-top: 10px;
     }
-`А
+`
 
 export const Title = styled.span`
     &{
